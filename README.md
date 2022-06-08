@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://twitter.com/washiprah" target="blank"><img src="https://img.shields.io/twitter/follow/washiprah?logo=twitter&style=for-the-badge" alt="washiprah" /></a> </p>
 
 
-- 🌱 I’m currently learning **NodeJS, Vue3 and git**
+- 🌱 I’m currently learning **NodeJS, React, and git**
 
 - 📝 I regularly write articles on [https://marcossilvag.github.io/my_launchx_blog/](https://marcossilvag.github.io/my_launchx_blog/)
 
